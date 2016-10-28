@@ -5,8 +5,9 @@ layout: default
 
 ## Projects
 
+More content to follow.
 
-### Procedure
+<!-- ### Procedure -->
 <!-- 1. Choose a team. Preferably of 2 people -->
 <!-- 1. Choose a problem to work on. Some suggestions can be found on the Course material page. -->
 <!-- 1. Present your research statement to your supervisor -->
@@ -15,7 +16,7 @@ layout: default
 <!-- 1. Present your results. We will hold a workshop during the exam time for every team to present. -->
 <!-- 1. Submit a report. See below. -->
 
-### Criteria
+<!-- ### Criteria -->
 <!-- The main focus of the project report and presentation should be the following: -->
 
 <!-- * Research question. Identify a clear and motivated question to answer. -->
@@ -26,5 +27,5 @@ layout: default
 <!-- Of course, there is only limited time to work on your research. We expect a brief report, of just a couple of pages (in principle no more than 10 pages), and a short presentation (around 10 - 15 minutes). -->
 
 
-## Research Projects
+<!-- ## Research Projects -->
 
