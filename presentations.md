@@ -62,7 +62,12 @@ fairly straightforward to set up.
 What kind of language is Rust? What is the problem with aliasing? How
 does Rust's borrowing mechanism address this?
 
-Team:?
+Team:
+* Arian van Putten
+* Richard Schoonhoven
+* Tim Baanen
+* Adolfo Ochavia
+* Reinier Maas
 
 #### Elm
 
